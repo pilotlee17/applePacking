@@ -14,7 +14,6 @@
 
 ## 海报展示
 
-![Thumbnail Image](poster_1.jpg?raw=true)
 ![Thumbnail Image](poster_2.jpg?raw=true)
 ![Thumbnail Image](poster_3.jpg?raw=true)
 ![Thumbnail Image](poster_4.jpg?raw=true)
